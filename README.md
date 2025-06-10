@@ -39,16 +39,3 @@ My background in software engineering provides a strong foundation in understand
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=daffarizqy&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffarizqy&layout=compact&theme=radical" width="48%" />
-</p>
-
----
-
-## 👁️ Visitor Counter
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=daffarizqy&style=flat-square&color=blue)
-
