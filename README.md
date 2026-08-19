@@ -62,9 +62,9 @@ contact: daffarizqyprastowiyono@gmail.com
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffariz316&theme=radical&hide_border=true&layout=compact&cache_seconds=1800" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com/?user=daffariz316&theme=radical&hide_border=true" alt="streak stats"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=daffariz316&theme=radical&hide_border=true" alt="activity graph"/>
