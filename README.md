@@ -22,7 +22,7 @@
 
 I'm a highly motivated **Software Engineering** student with a strong interest in **data science**, especially **machine learning**. I enjoy processing data, building models, and exploring how AI can solve real problems.
 
-My background in software engineering gives me a solid foundation in data structures, algorithms, and the tools that power modern data work — **Python, R, SQL**, and frameworks like **TensorFlow, Flask, Streamlit, and PyTorch**. I'm actively looking for opportunities to gain hands-on experience and contribute to teams working on data and machine learning projects.
+My background in software engineering gives me a solid foundation in data structures, algorithms, and the tools that power modern data work **Python, R, SQL**, and frameworks like **TensorFlow, Flask, Streamlit, and PyTorch**. I'm actively looking for opportunities to gain hands-on experience and contribute to teams working on data and machine learning projects.
 
 ```yaml
 name: Daffarizqy Prastowiyono
