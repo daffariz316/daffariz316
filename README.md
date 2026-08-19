@@ -54,7 +54,9 @@ contact: daffarizqyprastowiyono@gmail.com
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daffariz316&theme=radical&hide_border=true" alt="activity graph"/>
+</p>
 
 
 ---
