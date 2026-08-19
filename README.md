@@ -26,7 +26,7 @@ My background in software engineering gives me a solid foundation in data struct
 
 ```yaml
 name: Daffarizqy Prastowiyono
-role: Software Engineering Student @ IPB University
+role: Full-Stack Web Developer & mechine learning
 focus: [Web Development, Data Analysis, Machine Learning]
 currently_learning: [Python, R, SQL, Go]
 status: Open for work / partnership
