@@ -52,12 +52,6 @@ contact: daffarizqyprastowiyono@gmail.com
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 </p>
 
----
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daffariz316&theme=react-dark&hide_border=true&area=true" alt="activity graph"/>
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=daffariz316&style=for-the-badge&color=blueviolet" alt="profile views"/>
